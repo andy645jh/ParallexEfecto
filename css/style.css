@@ -16,7 +16,7 @@ body{
 
 #home { 
 	background: url(../images/home.jpg) 50% 0 no-repeat fixed; 
-	height: 1000px;  
+	height: 900px;  
 	margin: 0 auto; 
     width: 100%; 
     max-width: 1920px; 
@@ -25,7 +25,7 @@ body{
 }
 #about { 
 	background: url(../images/about.jpg) 50% 0 no-repeat fixed; 
-	height: 1000px;
+	height: 900px;
 	margin: 0 auto; 
     width: 100%; 
     max-width: 1920px; 
@@ -35,7 +35,7 @@ body{
 
 /* Introduction */
 
-#home article { background: url("../images/intro.png") no-repeat scroll center top transparent; height: 458px; position: absolute; text-indent: -9999px; top: 291px; width: 100%; }
+#home article { background: url("../images/intro.png") no-repeat scroll center top transparent; height: 300px; position: absolute; text-indent: -9999px; top: 291px; width: 100%; }
 
 #about article { background: url("../images/parallax.png") no-repeat scroll center top transparent; height: 458px; position: absolute; text-indent: -9999px; top: 291px; width: 100%; }
 
